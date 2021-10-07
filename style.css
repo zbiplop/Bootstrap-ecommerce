@@ -1,6 +1,34 @@
+.container{
+    margin-bottom: 100px;
+}
 .bg-color{
 background-color: #feeae9;
 }
 .carousel-inner{
     padding: 20px 40px;
+    border-radius: 8px;
+}
+.catagories{
+    margin: none;
+    padding: none;
+}
+.catagories h1{
+    color: #fff;
+}
+.catagories img{
+    height: 100px;
+}
+.watch, .bags, .shoes{
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.watch{
+    background-image: linear-gradient(#ffff00, #c5d81b);
+    
+}
+.bags{
+    background-color: pink;
+}
+.shoes{
+    background-color: blue;
 }
